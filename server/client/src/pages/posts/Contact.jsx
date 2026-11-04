@@ -70,17 +70,17 @@ const Contact = () => {
           <div className="shadow-md rounded-tl-md border bg-white hover:scale-[1.03] hover:skew-x-3 hover:shadow-xl duration-500 transition ease-out flex items-center justify-center flex-col text-sky-500">
             <i className="bi bi-geo-alt-fill text-5xl"></i>
             <p className="text-base font-semibold">Our Main Office</p>
-            <p className="text-center text-xs px-5 pt-2">Brgy Santa Monica Novaliches Quezon City</p>
+            <p className="text-center text-xs px-5 pt-2">Brgy Krus na ligas Quezon City</p>
           </div>
           <div className="shadow-md rounded-tr-md border bg-white hover:scale-[1.03] hover:-skew-x-3 hover:shadow-xl duration-500 transition ease-out flex items-center justify-center flex-col text-sky-500">
             <i className="bi bi-telephone-fill text-5xl"></i>
             <p className="text-base font-semibold">Phone Number</p>
-            <p className="text-center text-xs px-5 pt-2">(+63) 984-556-5654</p>
+            <p className="text-center text-xs px-5 pt-2">(+63) 9702916525</p>
           </div>
           <div className="shadow-md rounded-bl-md border bg-white hover:scale-[1.03] hover:-skew-x-3 hover:shadow-xl duration-500 transition ease-out flex items-center justify-center flex-col text-sky-500">
             <i className="bi bi-envelope-at-fill text-5xl"></i>
             <p className="text-base font-semibold">Email Address</p>
-            <p className="text-center text-xs px-5 pt-2">hanapbahay2024@gmail.com</p>
+            <p className="text-center text-xs px-5 pt-2">tingonong134@gmail.com</p>
             <p className="text-center text-xs px-5 pt-2">From HanapBahay</p>
           </div>
           <div className="shadow-md rounded-br-md border bg-white hover:scale-[1.03] hover:skew-x-3 hover:shadow-xl duration-500 transition ease-out flex items-center justify-center flex-col text-sky-500">
