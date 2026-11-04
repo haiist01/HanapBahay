@@ -24,7 +24,8 @@ function newName(originalname) {
 export default class API {
   //========================================================= Create New Rental
   static async createNewRental(req, res) {
-    const {
+    try {
+      const {
       address1,
       address2,
       city,
@@ -88,6 +89,10 @@ export default class API {
         return res.status(500).json({ error: err.message });
       }
     }, 3000);
+    } catch(err) {
+      console.log(err)
+    }
+    
   }
 
   //=================================================================Get All Rentals
